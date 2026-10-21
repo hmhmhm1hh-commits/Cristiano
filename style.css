@@ -1,0 +1,12 @@
+img {
+ width: 500px;
+ height: 400px;
+}
+body{
+    background-color: rgb(146, 99, 37);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif ;
+    font-size:xx-large ;
+    font-style: oblique;
+    color: brown;
+}
